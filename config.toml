@@ -1,53 +1,52 @@
-baseURL = "http://localhost:1313/gdr_nbody_2021/"
-#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+baseURL = "http://localhost:1313/CalmipTraining/"
+#baseURL = "https://TREX-CoE.github.io/CalmipTraining"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
+title = "TREX/CALMIP Training (Toulouse, 21-23 Nov 2022)"
 [Params]
-  hometitle = "GDR NBODY GENERAL MEETING 2022"
-  logo="img/CNRS.png"
+  hometitle = "TREX/CALMIP Training 2022"
+  logo="img/TREX_LOGO_square.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
-  desc = "GDR NBODY"
+  src = "img/onde_0.jpg"
+  desc = "TREX"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-#  name = "GDR NBODY"
-   email = "gdrnbody@lct.jussieu.fr"
-#  github = "LCPQ"
-   twitter = "GDR_NBODY"
-#   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+   name = "TREX"
+   github = "TREX-CoE"
+   twitter = "trex_eu"
+   youtube = "channel/UCgkQzeUW6O77jLpUEtm2RDA"
 
 [[menu.main]]
     name = "Home"
     url = ""
     weight = 1
 
-[[menu.main]]
-    name = "Registration"
-    url = "registration"
-    weight = 2
+#[[menu.main]]
+#    name = "Registration"
+#    url = "registration"
+#    weight = 2
 
 [[menu.main]]
     name = "Planning"
     url = "planning"
     weight = 3
 
- [[menu.main]]
-     name="Presentations"
-     url = "presentations"
-     weight = 4
-
- [[menu.main]]
-     name="Posters"
-     url = "posters"
-     weight = 5
+# [[menu.main]]
+#     name="Presentations"
+#     url = "presentations"
+#     weight = 4
+#
+# [[menu.main]]
+#     name="Posters"
+#     url = "posters"
+#     weight = 5
 
 [[menu.main]]
     name = "Location"
@@ -59,10 +58,10 @@ title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
     url = "participants"
     weight = 7
 
-[[menu.main]]
-    name = "Sponsors"
-    url = "sponsors"
-    weight = 8
+#[[menu.main]]
+#    name = "Sponsors"
+#    url = "sponsors"
+#    weight = 8
 
 #[[menu.main]]
 #    parent="external"
