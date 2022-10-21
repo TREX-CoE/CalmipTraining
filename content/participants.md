@@ -35,7 +35,7 @@ draft: false
 - Alejandro Estana
 - Edgar Landinez Borda
 - Enzo Monino
-- Ilan ROCCHI
+- Ilan Rocchi
 - Jan Brandejs
 - Johann Pototschnig
 - Oto Kohulak
