@@ -8,7 +8,7 @@ draft: false
 organizing a 3 days training at CALMIP (Espace Clement Ader) to present
 the following tools:
 
-- [MAQAO](https://www.maqao.exascale-computing.eu/): a performance analysis and
+- [MAQAO](https://maqao.exascale-computing.eu/): a performance analysis and
 optimization framework,
 
 - [Verificarlo](https://github.com/verificarlo/verificarlo): a tool for
