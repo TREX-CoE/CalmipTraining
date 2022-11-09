@@ -1,11 +1,11 @@
 ---
-title: "Verificarlo training: Monday 21st November 2022"
+title: "Verificarlo: Monday"
 date: 2022-11-09
 draft: false
 ---
 
 
-== Schedule Monday 21st November
+## Schedule Monday 21st November
 
 * 09:00 - 9:40 : Verificarlo - a tool for debugging and assessing floating point precision and reproducibility. _Pablo de Oliveira Castro_
 * 09:40 - 10:00 : Demonstration Verificarlo-CI in the TREX project. _Aurelien Delval_
@@ -14,11 +14,11 @@ draft: false
 * 13:00 - 13:20 : Mixed-precision exploration on Cornell-Holland Ab-initio Materials Package. _François Coppens_.
 * 13:20 - 17:00 : Hands-on session on participant's codes
 
-== Verificarlo Tutorial
+## Verificarlo Tutorial
 
 This tutorial demonstrates how to use Verificarlo to study and improve the numerical accuracy of programs.
 
-=== Instructions for running the tutorial in CALMIP
+## Instructions for running the tutorial in CALMIP
 
 1. Login into `olympe`
 2. Add the following to your `.bashrc` to export the path to TREX modulefiles:
@@ -58,7 +58,7 @@ already running inside the verificarlo singularity container.
 
 (If you want to work on your own laptop, you can instead use the docker commands.)
 
-=== Ressources
+## Ressources
 
 * [Tutorial handout in English (verificarlo-tutorial.pdf)](https://github.com/verificarlo/verificarlo_tutorial/files/9840629/verificarlo-tutorial.pdf)
 * [Tutorial sources (verificarlo-tutorial.tar.gz)](https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz)

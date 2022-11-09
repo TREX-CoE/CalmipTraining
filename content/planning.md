@@ -16,7 +16,7 @@ draft: false
 
 | Day       | Software                          |
 | ------    | ----------                        |
-| Monday    | [Verificarlo](./verificarlo.html) |
+| Monday    | [Verificarlo](../verificarlo/)    |
 | Tuesday   | StarPU                            |
 | Wednesday | MAQAO                             |
 
