@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://TREX-CoE.github.io/CalmipTraining/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Verificarlo training: Monday 21st November 2022</title>
+      <link>https://TREX-CoE.github.io/CalmipTraining/verificarlo/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://TREX-CoE.github.io/CalmipTraining/verificarlo/</guid>
+      <description>== Schedule Monday 21st November
+09:00 - 9:40 : Verificarlo - a tool for debugging and assessing floating point precision and reproducibility. Pablo de Oliveira Castro 09:40 - 10:00 : Demonstration Verificarlo-CI in the TREX project. Aurelien Delval 10:15 - 12:00 : Verificarlo Tutorial (practical session) 12:00 - 13:00 : Lunch on site 13:00 - 13:20 : Mixed-precision exploration on Cornell-Holland Ab-initio Materials Package. François Coppens. 13:20 - 17:00 : Hands-on session on participant&amp;rsquo;s codes == Verificarlo Tutorial</description>
+    </item>
+    
+    <item>
       <title>Location</title>
       <link>https://TREX-CoE.github.io/CalmipTraining/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
