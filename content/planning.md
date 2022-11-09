@@ -14,11 +14,11 @@ draft: false
 ------
 
 
-| Day       | Software    |
-| ------    | ----------  |
-| Monday    | Verificarlo |
-| Tuesday   | StarPU      |
-| Wednesday | MAQAO       |
+| Day       | Software                          |
+| ------    | ----------                        |
+| Monday    | [Verificarlo](./verificarlo.html) |
+| Tuesday   | StarPU                            |
+| Wednesday | MAQAO                             |
 
 ------
 
