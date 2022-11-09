@@ -1,6 +1,6 @@
 ---
 title: "Verificarlo training: Monday 21st November 2022"
-date: 2022-10-25
+date: 2022-11-09
 draft: false
 ---
 
@@ -21,7 +21,11 @@ This tutorial demonstrates how to use Verificarlo to study and improve the numer
 === Instructions for running the tutorial in CALMIP
 
 1. Login into `olympe`
-2. Allocate a computing node with
+2. Add the following to your `.bashrc` to export the path to TREX modulefiles:
+```
+export MODULEPATH=${MODULEPATH}:/usr/local/trex/modulefiles
+```
+3. Allocate a computing node with
 
 ```
 $ salloc --nodes=1 --time=2:00:00
@@ -29,12 +33,12 @@ salloc: Granted job allocation 961958
 salloc: Waiting for resource configuration
 salloc: Nodes olympecomp358 are ready for job
 ```
-3. Log into the allocated node
+4. Log into the allocated node
 ```
 $ ssh olympecomp358 # replace with the name of your node
 ```
 
-4. Load the verificarlo module
+5. Load the verificarlo module
 ```
 $ module load verificarlo/0.9.1
 ```
@@ -44,7 +48,13 @@ $ sing-verificarlo
 Singularity>
 ```
 
-You are now ready to start the verificarlo tutorial. The instructions are available in thethe pdf below. You can ignore the docker commands, since you are already running inside the verificarlo singularity container.
+The singularity image will automatically mount the host's local directory. We
+recommend that you use two terminals, one outside of the image to edit files;
+one inside the image to run the commands.
+
+You are now ready to start the verificarlo tutorial. The instructions are
+available in the pdf below. You can ignore the docker commands, since you are
+already running inside the verificarlo singularity container.
 
 (If you want to work on your own laptop, you can instead use the docker commands.)
 
