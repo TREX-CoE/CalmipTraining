@@ -31,6 +31,7 @@ draft: false
 
 # Registered participants
 
+- Abdallah Ammar
 - Abhishek Khedkar
 - Alejandro Estana
 - Edgar Landinez Borda
