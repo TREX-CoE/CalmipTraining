@@ -26,6 +26,6 @@ draft: false
  ```
  
  ## Resources
- * [MAQAO website] (https://maqao.exascale-computing.eu)
- * [MAQAO tutorials and documentation] (https://maqao.exascale-computing.eu/documentation.html)
- * [Latest MAQAO versions] (https://maqao.exascale-computing.eu/download.html)
+ * [MAQAO website](https://maqao.exascale-computing.eu)
+ * [MAQAO tutorials and documentation](https://maqao.exascale-computing.eu/documentation.html)
+ * [Latest MAQAO versions](https://maqao.exascale-computing.eu/download.html)
