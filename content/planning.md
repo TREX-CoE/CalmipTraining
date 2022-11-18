@@ -18,7 +18,7 @@ draft: false
 | ------    | ----------                        |
 | Monday    | [Verificarlo](../verificarlo/)    |
 | Tuesday   | StarPU                            |
-| Wednesday | MAQAO                             |
+| Wednesday | [MAQAO+MIPP](../MAQAO/)           |
 
 ------
 
