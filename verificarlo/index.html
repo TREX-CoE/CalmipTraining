@@ -59,7 +59,7 @@
   "headline": "Verificarlo: Monday",
   "description" : "Schedule Monday 21st November 09:00 - 9:40 : Verificarlo - a tool for debugging and assessing floating point precision and reproducibility. Pablo de Oliveira Castro 10:00 - 12:00 : Verificarlo Tutorial (practical session) 12:00 - 13:00 : Lunch on site 13:00 - 13:20 : Mixed-precision exploration on Cornell-Holland Ab-initio Materials Package. François Coppens. 13:20 - 13:40 : Demonstration Verificarlo-CI in the TREX project. Aurelien Delval 13:40 - 17:00 : Hands-on session on participant\u0026rsquo;s codes Verificarlo Tutorial This tutorial demonstrates how to use Verificarlo to study and improve the numerical accuracy of programs.",
   "inLanguage" : "en",
-  "wordCount":  265 ,
+  "wordCount":  303 ,
   "datePublished" : "2022-11-09T00:00:00",
   "dateModified" : "2022-11-09T00:00:00",
   "image" : "https:\/\/TREX-CoE.github.io\/CalmipTraining\/img\/TREX_LOGO_square.png",
@@ -268,6 +268,11 @@
 <li>Add the following to your <code>.bashrc</code> to export the path to TREX modulefiles:</li>
 </ol>
 <pre tabindex="0"><code>export MODULEPATH=${MODULEPATH}:/usr/local/trex/modulefiles
+</code></pre><ol start="2">
+<li>Retrieve and untar the sources for the tutorial with:</li>
+</ol>
+<pre tabindex="0"><code>wget https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz
+tar xzvf verificarlo-tutorial.tar.gz
 </code></pre><ol start="3">
 <li>Allocate a computing node with</li>
 </ol>
@@ -284,17 +289,18 @@ salloc: Nodes olympecomp358 are ready for job
 </ol>
 <pre tabindex="0"><code>$ module load verificarlo/0.9.1
 </code></pre><ol start="5">
-<li>Start verificarlo singularity image</li>
+<li>Start verificarlo singularity image and move into the tutorial working directory:</li>
 </ol>
 <pre tabindex="0"><code>$ sing-verificarlo
-Singularity&gt;
+Singularity verificarlo-v0.9.1.sif:~&gt; cd verificarlo-tutorial/
+Singularity verificarlo-v0.9.1.sif:~/verificarlo-tutorial&gt; 
 </code></pre><p>The singularity image will automatically mount the host&rsquo;s local directory. We
 recommend that you use two terminals, one outside of the image to edit files;
 one inside the image to run the commands.</p>
 <p>You are now ready to start the verificarlo tutorial. The instructions are
-available in the pdf below. You can ignore the docker commands, since you are
-already running inside the verificarlo singularity container.</p>
-<p>(If you want to work on your own laptop, you can instead use the docker commands.)</p>
+available in the pdf below. You can ignore the docker commands in section 1, since you are
+already running inside the verificarlo singularity container and directly jump to section 2.</p>
+<p>(If you want to work on your own laptop, you can instead use the docker commands in section 1.)</p>
 <h2 id="ressources">Ressources</h2>
 <ul>
 <li><a href="https://github.com/verificarlo/verificarlo_tutorial/files/9840629/verificarlo-tutorial.pdf">Tutorial handout in English (verificarlo-tutorial.pdf)</a></li>
