@@ -7,8 +7,8 @@ draft: false
 
 ## Schedule Monday 21st November
 
-* 09:00 - 9:40 : Verificarlo - a tool for debugging and assessing floating point precision and reproducibility. _Pablo de Oliveira Castro_
-* 10:00 - 12:00 : Verificarlo Tutorial (practical session)
+* 09:00 - 9:40 : [Verificarlo - a tool for debugging and assessing floating point precision and reproducibility.](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-slides.pdf) _Pablo de Oliveira Castro_
+* 10:00 - 12:00 : [Verificarlo Tutorial](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-tutorial.pdf) (practical session)
 * 12:00 - 13:00 : Lunch on site
 * 13:00 - 13:20 : Mixed-precision exploration on Cornell-Holland Ab-initio Materials Package. _François Coppens_.
 * 13:20 - 13:40 : Demonstration Verificarlo-CI in the TREX project. _Aurelien Delval_
