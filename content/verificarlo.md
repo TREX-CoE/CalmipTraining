@@ -69,5 +69,5 @@ already running inside the verificarlo singularity container and directly jump t
 
 ## Ressources
 
-* [Tutorial handout in English (verificarlo-tutorial.pdf)](https://github.com/verificarlo/verificarlo_tutorial/files/9840629/verificarlo-tutorial.pdf)
+* [Tutorial handout in English (verificarlo-tutorial.pdf)](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-tutorial.pdf)
 * [Tutorial sources (verificarlo-tutorial.tar.gz)](https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz)
