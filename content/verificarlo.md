@@ -25,8 +25,14 @@ This tutorial demonstrates how to use Verificarlo to study and improve the numer
 ```
 export MODULEPATH=${MODULEPATH}:/usr/local/trex/modulefiles
 ```
-3. Allocate a computing node with
 
+2. Retrieve and untar the sources for the tutorial with:
+```
+wget https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz
+tar xzvf verificarlo-tutorial.tar.gz
+```
+
+3. Allocate a computing node with
 ```
 $ salloc --nodes=1 --time=2:00:00
 salloc: Granted job allocation 961958
@@ -42,10 +48,11 @@ $ ssh olympecomp358 # replace with the name of your node
 ```
 $ module load verificarlo/0.9.1
 ```
-5. Start verificarlo singularity image
+5. Start verificarlo singularity image and move into the tutorial working directory:
 ```
 $ sing-verificarlo
-Singularity>
+Singularity verificarlo-v0.9.1.sif:~> cd verificarlo-tutorial/
+Singularity verificarlo-v0.9.1.sif:~/verificarlo-tutorial> 
 ```
 
 The singularity image will automatically mount the host's local directory. We
@@ -53,10 +60,10 @@ recommend that you use two terminals, one outside of the image to edit files;
 one inside the image to run the commands.
 
 You are now ready to start the verificarlo tutorial. The instructions are
-available in the pdf below. You can ignore the docker commands, since you are
-already running inside the verificarlo singularity container.
+available in the pdf below. You can ignore the docker commands in section 1, since you are
+already running inside the verificarlo singularity container and directly jump to section 2.
 
-(If you want to work on your own laptop, you can instead use the docker commands.)
+(If you want to work on your own laptop, you can instead use the docker commands in section 1.)
 
 ## Ressources
 
