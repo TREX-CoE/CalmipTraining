@@ -59,6 +59,8 @@ The singularity image will automatically mount the host's local directory. We
 recommend that you use two terminals, one outside of the image to edit files;
 one inside the image to run the commands.
 
+You can also work locally to edit files and view generated plots by mouting the remote directory with `mkdir calmip-wd && sshfs olympe: calmip-wd/`.
+
 You are now ready to start the verificarlo tutorial. The instructions are
 available in the pdf below. You can ignore the docker commands in section 1, since you are
 already running inside the verificarlo singularity container and directly jump to section 2.
