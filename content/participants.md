@@ -32,15 +32,15 @@ draft: false
 # Registered participants
 
 - Abdallah Ammar
-- Abhishek Khedkar
 - Alejandro Estana
+- Amer Alrakik
 - Edgar Landinez Borda
 - Enzo Monino
 - Ilan Rocchi
 - Jan Brandejs
 - Johann Pototschnig
+- Max Hoffer
 - Oto Kohulak
-- Stefano Evangelisti
 - Tommaso Gorni
 - Trond Saue
 - Vijay Gopal Chilkuri
