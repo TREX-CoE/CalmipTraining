@@ -26,6 +26,7 @@ draft: false
 
  - [TREX@CALMIP](../presentations/TREX_CALMIP2022.pdf)
  - [Presentation of Olympe](../presentations/Olympe.pdf)
+ - [Link to Verificarlo pfd and slides](../verificarlo/)    |
 
 # Tuesday
 
