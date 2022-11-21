@@ -34,7 +34,7 @@ tar xzvf verificarlo-tutorial.tar.gz
 
 3. Allocate a computing node with
 ```
-$ salloc --nodes=1 --time=2:00:00
+$ salloc --reservation=trex --nodes=1 --time=2:00:00
 salloc: Granted job allocation 961958
 salloc: Waiting for resource configuration
 salloc: Nodes olympecomp358 are ready for job
