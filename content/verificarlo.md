@@ -72,4 +72,4 @@ already running inside the verificarlo singularity container and directly jump t
 * [Tutorial handout in English (verificarlo-tutorial.pdf)](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-tutorial.pdf)
 * [Tutorial sources (verificarlo-tutorial.tar.gz)](https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz)
 * [Mixed-precision exploration on CHAMP slides (VFC_MPE_CalMiP_2022.pdf)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/slides/VFC_MPE_CalMiP_2022.pdf)
-* * [Mixed-precision exploration on CHAMP sripts (scripts.tar.gz)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/scripts/scripts.tar.gz)
+* [Mixed-precision exploration on CHAMP sripts (scripts.tar.gz)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/scripts/scripts.tar.gz)
