@@ -11,7 +11,7 @@ draft: false
 * 10:00 - 12:00 : [Verificarlo Tutorial](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-tutorial.pdf) (practical session)
 * 12:00 - 13:00 : Lunch on site
 * 13:00 - 13:20 : [Mixed-precision exploration on Cornell-Holland Ab-initio Materials Package.](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/slides/VFC_MPE_CalMiP_2022.pdf) _François Coppens_.
-* 13:20 - 13:40 : Demonstration Verificarlo-CI in the TREX project. _Aurelien Delval_
+* 13:20 - 13:40 : [Demonstration Verificarlo-CI in the TREX project.](https://github.com/TREX-CoE/CalmipTraining/raw/master/static/presentations/verificarlo-ci-slides.pdf) _Aurelien Delval_
 * 13:40 - 17:00 : Hands-on session on participant's codes
 
 ## Verificarlo Tutorial
@@ -72,5 +72,5 @@ already running inside the verificarlo singularity container and directly jump t
 * [Tutorial handout in English (verificarlo-tutorial.pdf)](https://trex-coe.github.io/CalmipTraining/presentations/verificarlo-tutorial.pdf)
 * [Tutorial sources (verificarlo-tutorial.tar.gz)](https://github.com/verificarlo/verificarlo_tutorial/files/9840599/verificarlo-tutorial.tar.gz)
 * [Mixed-precision exploration on CHAMP slides (VFC_MPE_CalMiP_2022.pdf)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/slides/VFC_MPE_CalMiP_2022.pdf)
-* [Mixed-precision exploration on CHAMP sripts (scripts.tar.gz)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/scripts/scripts.tar.gz)
+* [Mixed-precision exploration on CHAMP scripts (scripts.tar.gz)](https://github.com/TREX-CoE/Calmip_VFC_mixed_prec_expl/blob/master/scripts/scripts.tar.gz)
 * [Verificarlo CI slides (verificarlo-ci-slides.pdf)](https://github.com/TREX-CoE/CalmipTraining/raw/master/static/presentations/verificarlo-ci-slides.pdf)
