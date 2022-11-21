@@ -9,8 +9,8 @@ draft: false
 * 09:00 - 09:20 : MIPP _Denis Barthou_
 * 09:20 - 10:00 : [MAQAO Performance Analysis and Optimisation Framework](../presentations/MAQAO.pdf) _Cédric Valensi_
 * 10:00 - 10:15 : Coffee break
-* 10:15 - 11:00 : [Demo: Analysing a code with MAQAO ONE View](../presentations/MAQAO-handsons.pdf) _Cédric Valensi_
-* 11:00 - 12:00 : [Tutoriel: Optimising a code with MAQAO ONE View](../presentations/MAQAO-handsons.pdf) _Emmanuel Oseret_
+* 10:15 - 11:00 : [Demo: Analysing a code with MAQAO ONE View](../presentations/MAQAO-handson.pdf) _Cédric Valensi_
+* 11:00 - 12:00 : [Tutoriel: Optimising a code with MAQAO ONE View](../presentations/MAQAO-handson.pdf) _Emmanuel Oseret_
 * 12:00 - 13:00 : Lunch break
 * 13:00 - 16:45 : Hands-on sessions using participants' codes
 
