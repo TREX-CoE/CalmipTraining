@@ -32,5 +32,6 @@ draft: false
 
 # Wednesday
 
+ - [MIPP](../presentations/calmip-mipp.pdf)
  - [MAQAO](../presentations/MAQAO.pdf)
  - [MAQAO Hands-ons](../presentations/MAQAO-handson.pdf)
