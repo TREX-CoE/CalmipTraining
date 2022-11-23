@@ -26,11 +26,12 @@ draft: false
 
  - [TREX@CALMIP](../presentations/TREX_CALMIP2022.pdf)
  - [Presentation of Olympe](../presentations/Olympe.pdf)
- - [Link to Verificarlo pfd and slides](../verificarlo/)    |
+ - [Link to Verificarlo slides](../verificarlo/)
 
 # Tuesday
 
 # Wednesday
 
+ - [MIPP](../presentations/calmip-mipp.pdf)
  - [MAQAO](../presentations/MAQAO.pdf)
  - [MAQAO Hands-ons](../presentations/MAQAO-handson.pdf)
