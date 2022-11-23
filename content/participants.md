@@ -26,6 +26,7 @@ draft: false
 - Denis Barthou (INRIA)
 - Kun He (INRIA)
 - Nathalie Furmento (INRIA)
+- Olivier Aumage (INRIA)
 - Samuel Thibault (INRIA)
 
 
